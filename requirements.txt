@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+langchain-text-splitters
+chromadb
+unstructured
+unstructured[pdf]
+beautifulsoup4
+tqdm
+pydantic
